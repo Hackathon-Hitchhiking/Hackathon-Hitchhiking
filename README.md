@@ -1,2 +1,2 @@
 # Hackathon-Hitchhiking
-Organisation description
+Organization description
